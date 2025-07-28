@@ -1,0 +1,135 @@
+/***
+ * Q:1 write a function findLongestWord that takes a string as input and returns 
+ * the longest word in the string. If there are multiple longest words, return the 
+ * one encountered. 
+ */
+
+
+/*****
+ * Q:2 you are required to implement a function generateHashTag
+ *  that generates a hash tag from a given input string
+ */
+
+/****
+ *Q:3 Write a function called "countChar" that takes two parameters: a string and a character
+ * to count. The function should return the number of times the specified character 
+ * appears in the string.
+ */
+
+
+ //Q:4 Write a function called checkTriangle Type that takes three parameters representing
+//  the lengths of the sides of a triangle. The function should return a string
+//  indicating the type of triangle: "equilateral", "isosceles", or "scalene".
+
+
+
+//Q:5 Write a function to sort an array of numbers in an ascending order.
+
+
+/*Q:6 Write a function to determine whether a given string is a palindrome or not.
+   A palindrome is a word, phrase,number, or other sequence of characters that 
+   reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
+*/
+
+
+//Q:7 Write a function findMax that takes an array of numbers as input and 
+// returns the maximum number in the array.
+
+
+//Q:8 Challenge: Factorial Finder:
+// Write a function factorial that takes a non-negative integer num as input 
+// and returns its factorial. Thefactorial of a non-negative integer n, denoted as n!,
+//  is the product of all positive integers less than or equal to n. The factorial
+//   of 0 is defined as 1.
+
+
+//Q:9 Write a function called calculateAverage that takes an array of numbers as 
+// input and returns the average of those numbers.
+
+
+
+//Q:10 Write a function arraysAreEqual that takes two arrays arr1 and arr2 
+// as input and returns true if the arrays are 
+// equal (i.e., contain the same elements in the same order),
+//  and false otherwise.
+
+
+
+//Q:11 Write a function that takes a number as input and returns the sum of its digits.
+
+
+
+// Q:12 Write a function that takes an array of integers as input and removes any duplicate
+//  elements, returning a new array with only the unique elements.
+
+
+// Q:13 Write a function that takes a string as input and returns the count of vowels
+//  in that string. Consider 'a', 'e', 'i', 'o', and 'u' as vowels (both 
+// Lowercase and uppercase).
+
+
+// Q:14 Write a function called isPowerOf Two that takes an integer num as input and returns
+//  true if num is a power of two, and false otherwise.
+
+
+
+/************
+ * Q:15 Write a function to calculate the sum of squares of all elements in an array. For
+    example, given the array [1, 2, 3], the function should return 14 because 
+    1+1+2+2+3+3 = 1 +4 +9=14.
+ */
+
+
+
+//Q: 16 Write a function findMin that takes an array of numbers as input and returns 
+// the minimum value found in the array.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
