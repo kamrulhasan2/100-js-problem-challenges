@@ -6,13 +6,13 @@ Welcome to the **100 JavaScript Problem Challenges** repository! This project is
 
 ## 📋 Table of Contents
 
-- [Introduction](https://www.google.com/search?q=%23-introduction)
-- [Installation](https://www.google.com/search?q=%23-installation)
-- [Usage](https://www.google.com/search?q=%23%EF%B8%8F-usage)
-- [Features](https://www.google.com/search?q=%23-features)
-- [Problem List](https://www.google.com/search?q=%23-problem-list)
-- [Contributing](https://www.google.com/search?q=%23-contributing)
-- [Troubleshooting](https://www.google.com/search?q=%23-troubleshooting)
+- Introduction
+- Installation
+- Usage
+- Features
+- Problem List
+- Contributing
+- Troubleshooting
 
 
 ---
