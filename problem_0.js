@@ -87,7 +87,21 @@
 
 
 
+// Coding Challenge
+// Q: 17: Write a function to convert a string to camelCase & snake_case.
 
+
+// Coding Challenge
+//Q:18 Write a function to check if a character is uppercase or lowercase.
+
+
+
+//* Coding Challenge
+//Q:19 Write a function to check if a given string starts with a specific substring.
+
+
+//Q:20. Write a function to reverse a string without using any built-in methods or 
+// libraries. The function should take a string as input and return the reversed string.
 
 
 

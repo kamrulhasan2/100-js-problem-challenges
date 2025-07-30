@@ -83,7 +83,10 @@ Here are the first 16 challenges. More are on the way!
 | 14 | `isPowerOfTwo(num)` | Checks if a number is a power of two. |
 | 15 | `sumOfSquares(arr)` | Returns the sum of squares of elements in an array. |
 | 16 | `findMin(arr)` | Returns the minimum number in an array. |
-
+| 17 |	`convertCase(str)` | Converts a string to camelCase and snake_case. |
+| 18 | `isUpperOrLower(char)` |	Checks if a character is uppercase or lowercase.|
+| 19 | `startsWith(str, prefix)` | Checks if a string starts with a specific substring.|
+| 20 |`reverseString(str)` | Reverses a string without using built-in methods.|
 
 
 ---
