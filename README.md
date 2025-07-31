@@ -87,7 +87,8 @@ Here are the first 16 challenges. More are on the way!
 | 18 | `isUpperOrLower(char)` |	Checks if a character is uppercase or lowercase.|
 | 19 | `startsWith(str, prefix)` | Checks if a string starts with a specific substring.|
 | 20 |`reverseString(str)` | Reverses a string without using built-in methods.|
-
+| 21 | `calculateMean(arr)` | Returns the mean (average) of numbers in an array.|
+| 22 |`findMedian(arr)` | Returns the median of numbers in an array.|
 
 ---
 

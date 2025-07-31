@@ -105,7 +105,15 @@
 
 
 
+//Q:21. Write a function called calculateMean that takes an array of numbers as input and 
+// returns the mean (average) of those numbers.todd In math, the mean is the average 
+// of a set of numbers, or the numeric value that represents the center of a collection
+//  of numbers.
 
+
+//Q:22. Write a JavaScript function findMedian(arr) that takes an array of numbers as input 
+// and returns the median value. If the array has an even number of elements, return 
+// the average of the two middle values.
 
 
 
