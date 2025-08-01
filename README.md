@@ -89,7 +89,8 @@ Here are the first 16 challenges. More are on the way!
 | 20 |`reverseString(str)` | Reverses a string without using built-in methods.|
 | 21 | `calculateMean(arr)` | Returns the mean (average) of numbers in an array.|
 | 22 |`findMedian(arr)` | Returns the median of numbers in an array.|
-
+| 23 | `countOccurrences(arr)` | Counts occurrences of each element in an array.|
+| 24 |`findMode(arr)` | Returns the mode (most frequent number) in an array.|
 ---
 
 ## 🤝 Contributing
