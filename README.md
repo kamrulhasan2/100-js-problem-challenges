@@ -91,6 +91,8 @@ Here are the first 16 challenges. More are on the way!
 | 22 |`findMedian(arr)` | Returns the median of numbers in an array.|
 | 23 | `countOccurrences(arr)` | Counts occurrences of each element in an array.|
 | 24 |`findMode(arr)` | Returns the mode (most frequent number) in an array.|
+| 25 | `factorialRecursive(num)` | Calculates factorial of a number using recursion.|
+| 26 |`fibonacci(n)` | Returns the nth number in the Fibonacci sequence.|
 ---
 
 ## 🤝 Contributing

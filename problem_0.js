@@ -128,7 +128,12 @@
 
 
 
+//Q:25.  Write a function to calculate the factorial of a number. (using Recursion)
 
+
+//Q:26. Write a function to find the nth Fibonacci number.
+// The Fibonacci series is a sequence of numbers in which each number (Fibonacci number) 
+// is the sum of the two preceding ones.
 
 
 
