@@ -93,6 +93,7 @@ Here are the first 16 challenges. More are on the way!
 | 24 |`findMode(arr)` | Returns the mode (most frequent number) in an array.|
 | 25 | `factorialRecursive(num)` | Calculates factorial of a number using recursion.|
 | 26 |`fibonacci(n)` | Returns the nth number in the Fibonacci sequence.|
+| 27 |`repeatString(str, num)` | Repeats a string a specified number of times.|
 ---
 
 ## 🤝 Contributing

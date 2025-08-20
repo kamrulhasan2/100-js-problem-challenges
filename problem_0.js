@@ -136,6 +136,11 @@
 // is the sum of the two preceding ones.
 
 
+// Q:27. Write a fonction called repeatstring that takes two parameters:
+// str: A string that needs to be repeated.
+// num: An integer representing the number of times the string should be repeated.
+// The function should repeat the input string str the specified number of times now
+//  and reture the resulting string.
 
 
 
