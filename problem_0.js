@@ -143,7 +143,12 @@
 //  and reture the resulting string.
 
 
-
+//Q:28. Write a function called truncateString that takes two parameters:
+//? str: A string that needs to be truncated.
+//7 maxLength: An integer representing the maximum length of the string allowed.
+//? The function should truncate the input string str if its length exceeds the 
+// specified maxlength. If truncation occurs, the function should add to the end 
+// of the truncated string.
 
 
 

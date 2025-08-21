@@ -94,6 +94,7 @@ Here are the first 16 challenges. More are on the way!
 | 25 | `factorialRecursive(num)` | Calculates factorial of a number using recursion.|
 | 26 |`fibonacci(n)` | Returns the nth number in the Fibonacci sequence.|
 | 27 |`repeatString(str, num)` | Repeats a string a specified number of times.|
+| 28 |`truncateString(str, maxLength)` | Truncates a string if it exceeds the max length.|
 ---
 
 ## 🤝 Contributing
