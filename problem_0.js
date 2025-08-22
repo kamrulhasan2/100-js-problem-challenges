@@ -151,7 +151,9 @@
 // of the truncated string.
 
 
-
+//Q:29. Write a function called numberRange that generates an array containing 
+// consecutive numbers from a to b (inclusive).
+//solution: using loop
 
 
 
