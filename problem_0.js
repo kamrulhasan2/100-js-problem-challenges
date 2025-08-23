@@ -156,7 +156,9 @@
 //solution: using loop
 
 
-
+//Q:30. Write a function called numberRange that generates an array containing 
+// consecutive numbers from a to b (inclusive).
+// solution : using recursion
 
 
 

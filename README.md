@@ -96,6 +96,7 @@ Here are the first 16 challenges. More are on the way!
 | 27 |`repeatString(str, num)` | Repeats a string a specified number of times.|
 | 28 |`truncateString(str, maxLength)` | Truncates a string if it exceeds the max length.|
 | 29 |`numberRangeLoop(a, b)` | Generates an array from a to b using a loop.|
+| 30 |`numberRangeRecursive(a, b)` | Generates an array from a to b using recursion.|
 ---
 
 ## 🤝 Contributing
