@@ -97,6 +97,7 @@ Here are the first 16 challenges. More are on the way!
 | 28 |`truncateString(str, maxLength)` | Truncates a string if it exceeds the max length.|
 | 29 |`numberRangeLoop(a, b)` | Generates an array from a to b using a loop.|
 | 30 |`numberRangeRecursive(a, b)` | Generates an array from a to b using recursion.|
+| 31 |`validatePassword(password)` | Validates password against security criteria.|
 ---
 
 ## 🤝 Contributing

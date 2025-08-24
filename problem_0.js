@@ -162,7 +162,11 @@
 
 
 
-
+//Q:31. The password must contain at least one lowercase letter, one uppercase 
+// letter, and one digit.
+// The length of the password must be at least 8 characters.
+// The function should return true if the password meets all the criteria,
+//  otherwise, it should return false.
 
 
 
