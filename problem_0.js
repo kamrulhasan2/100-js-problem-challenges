@@ -169,7 +169,14 @@
 //  otherwise, it should return false.
 
 
-
+//Q:32 Coding Challenge: Random Hex Color Generator
+//? Write a function randomHexColor that generates a random hexadecimal
+//  color code each time it is called. The function should return a string
+//  representing the random color code in the format #RRGGBB', where RR, GG,
+//  and BB are two-digit hexadecimal numbers representing the red, green, and blue 
+// components of the color, respectively.
+//? Your challenge is to implement the randoniexColor function using JavaScript and ensure
+//  that it produces a valid hexadecimal color code with a length of 7 characters (including the asyabol).
 
 
 

@@ -98,6 +98,7 @@ Here are the first 16 challenges. More are on the way!
 | 29 |`numberRangeLoop(a, b)` | Generates an array from a to b using a loop.|
 | 30 |`numberRangeRecursive(a, b)` | Generates an array from a to b using recursion.|
 | 31 |`validatePassword(password)` | Validates password against security criteria.|
+| 32 |`randomHexColor()` | Generates a random hex color code like #A1B2C3.|
 ---
 
 ## 🤝 Contributing
