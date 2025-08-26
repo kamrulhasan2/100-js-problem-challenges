@@ -179,7 +179,8 @@
 //  that it produces a valid hexadecimal color code with a length of 7 characters (including the asyabol).
 
 
-
+//Q:33 Write a function removeDuplicates that takes an array of elements 
+// as input and returns a new array with duplicate elements removed.
 
 
 
