@@ -183,7 +183,8 @@
 // as input and returns a new array with duplicate elements removed.
 
 
-
+//Q:34 Write a function isEmptyObject that takes an object as input and determines whether 
+// it is empty or not. An empty object is defined as an object with no own properties.
 
 
 

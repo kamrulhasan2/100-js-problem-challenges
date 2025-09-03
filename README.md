@@ -100,6 +100,7 @@ Here are the first 16 challenges. More are on the way!
 | 31 |`validatePassword(password)` | Validates password against security criteria.|
 | 32 |`randomHexColor()` | Generates a random hex color code like #A1B2C3.|
 | 33 |`removeDuplicates(arr)` | Removes duplicate elements from an array.|
+| 34 |`isEmptyObject(obj)` | Determines if an object has no own properties.|
 ---
 
 ## 🤝 Contributing
