@@ -188,6 +188,7 @@
 
 
 
+//Q:35. Write a function to find the first non-repeated character in a string.
 
 
 
