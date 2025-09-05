@@ -191,7 +191,7 @@
 //Q:35. Write a function to find the first non-repeated character in a string.
 
 
-
+//Q:36. Write a function to check if two strings are anagrams.
 
 
 

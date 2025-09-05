@@ -102,6 +102,7 @@ Here are the first 16 challenges. More are on the way!
 | 33 |`removeDuplicates(arr)` | Removes duplicate elements from an array.|
 | 34 |`isEmptyObject(obj)` | Determines if an object has no own properties.|
 | 35 | `findNonRepeatedChar(str)` | Finds the first non-repeated character in a string. |
+| 36 | `areAnagrams(str1, str2)` | Checks if two strings are anagrams. |
 ---
 
 ## 🤝 Contributing
