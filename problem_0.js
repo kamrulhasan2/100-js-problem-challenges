@@ -193,6 +193,6 @@
 
 //Q:36. Write a function to check if two strings are anagrams.
 
-
+//Q:37. Write a function to flatten a nested array.
 
 
