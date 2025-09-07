@@ -104,6 +104,7 @@ Here are the first 16 challenges. More are on the way!
 | 35 | `findNonRepeatedChar(str)` | Finds the first non-repeated character in a string. |
 | 36 | `areAnagrams(str1, str2)` | Checks if two strings are anagrams. |
 | 37 | `flattenArray(arr)` | Flattens a nested array. |
+| 38 | `rotateArray(arr, steps)` | Rotates an array to the right by a given number of steps. |
 ---
 
 ## 🤝 Contributing

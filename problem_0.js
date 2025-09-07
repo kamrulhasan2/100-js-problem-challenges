@@ -195,4 +195,4 @@
 
 //Q:37. Write a function to flatten a nested array.
 
-
+//Q:38. Write a function to rotate an array to the right by a given number of steps.
