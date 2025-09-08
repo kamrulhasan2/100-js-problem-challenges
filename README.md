@@ -105,6 +105,7 @@ Here are the first 16 challenges. More are on the way!
 | 36 | `areAnagrams(str1, str2)` | Checks if two strings are anagrams. |
 | 37 | `flattenArray(arr)` | Flattens a nested array. |
 | 38 | `rotateArray(arr, steps)` | Rotates an array to the right by a given number of steps. |
+| 39 | `findMissingNumber(arr, n)` | Finds the missing number in an array of numbers from 1 to N. |
 ---
 
 ## 🤝 Contributing
