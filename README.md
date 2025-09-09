@@ -106,6 +106,7 @@ Here are the first 16 challenges. More are on the way!
 | 37 | `flattenArray(arr)` | Flattens a nested array. |
 | 38 | `rotateArray(arr, steps)` | Rotates an array to the right by a given number of steps. |
 | 39 | `findMissingNumber(arr, n)` | Finds the missing number in an array of numbers from 1 to N. |
+| 40 | `findKthLargest(arr, k)` | Finds the k-th largest element in an array. |
 ---
 
 ## 🤝 Contributing
