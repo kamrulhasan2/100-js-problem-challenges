@@ -108,6 +108,7 @@ Here are the first 16 challenges. More are on the way!
 | 39 | `findMissingNumber(arr, n)` | Finds the missing number in an array of numbers from 1 to N. |
 | 40 | `findKthLargest(arr, k)` | Finds the k-th largest element in an array. |
 | 41 | `Stack` | Implements a Stack class. |
+| 42 | `Queue` | Implements a Queue class. |
 ---
 
 ## 🤝 Contributing

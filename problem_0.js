@@ -203,3 +203,5 @@
 
 //Q:41. Implement a Stack class.
 
+//Q:42. Implement a Queue class.
+
