@@ -205,3 +205,4 @@
 
 //Q:42. Implement a Queue class.
 
+//Q:43. Write a function to perform a binary search on a sorted array.

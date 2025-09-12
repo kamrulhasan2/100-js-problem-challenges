@@ -109,6 +109,7 @@ Here are the first 16 challenges. More are on the way!
 | 40 | `findKthLargest(arr, k)` | Finds the k-th largest element in an array. |
 | 41 | `Stack` | Implements a Stack class. |
 | 42 | `Queue` | Implements a Queue class. |
+| 43 | `binarySearch(arr, target)` | Performs a binary search on a sorted array. |
 ---
 
 ## 🤝 Contributing
