@@ -206,3 +206,5 @@
 //Q:42. Implement a Queue class.
 
 //Q:43. Write a function to perform a binary search on a sorted array.
+
+//Q:44. Write a function to generate all permutations of a string.
