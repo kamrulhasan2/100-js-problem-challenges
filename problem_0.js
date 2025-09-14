@@ -208,3 +208,7 @@
 //Q:43. Write a function to perform a binary search on a sorted array.
 
 //Q:44. Write a function to generate all permutations of a string.
+
+//Q:45. Write a function to check if a given number is a happy number.
+
+

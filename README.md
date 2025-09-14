@@ -111,6 +111,7 @@ Here are the first 16 challenges. More are on the way!
 | 42 | `Queue` | Implements a Queue class. |
 | 43 | `binarySearch(arr, target)` | Performs a binary search on a sorted array. |
 | 44 | `permutations(str)` | Generates all permutations of a string. |
+| 45 | `isHappy(num)` | Checks if a given number is a happy number. |
 ---
 
 ## 🤝 Contributing
