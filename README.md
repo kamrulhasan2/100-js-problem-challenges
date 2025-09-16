@@ -113,7 +113,7 @@ Here are the first 16 challenges. More are on the way!
 | 44 | `permutations(str)` | Generates all permutations of a string. |
 | 45 | `isHappy(num)` | Checks if a given number is a happy number. |
 | 46 | `debounce(func, delay)` | Implements the debounce function. |
----
+| 47 | `throttle(func, delay)` | Implements the throttle function. |
 
 ## 🤝 Contributing
 

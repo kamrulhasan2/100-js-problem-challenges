@@ -212,3 +212,5 @@
 //Q:45. Write a function to check if a given number is a happy number.
 
 //Q:46. Write a function to implement the debounce function.
+
+//Q:47. Write a function to implement the throttle function.
