@@ -214,3 +214,7 @@
 //Q:46. Write a function to implement the debounce function.
 
 //Q:47. Write a function to implement the throttle function.
+
+//Q:48. Write a function to perform a deep comparison of two objects.
+
+
