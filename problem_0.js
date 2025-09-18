@@ -217,4 +217,5 @@
 
 //Q:48. Write a function to perform a deep comparison of two objects.
 
+//Q:49. Write a function that implements the game of Rock, Paper, Scissors.
 
