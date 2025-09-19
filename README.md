@@ -116,6 +116,7 @@ Here are the first 16 challenges. More are on the way!
 | 47 | `throttle(func, delay)` | Implements the throttle function. |
 | 48 | `deepEqual(obj1, obj2)` | Performs a deep comparison of two objects. |
 | 49 | `playRPS(playerChoice)` | Implements the game of Rock, Paper, Scissors. |
+| 50 | `lengthOfLongestSubstring(s)` | Finds the length of the longest substring without repeating characters. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
