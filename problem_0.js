@@ -222,3 +222,6 @@
 //Q:50. Write a function to find the length of the longest substring without
 //  repeating characters.
 
+//Q:51. Write a function to check if a string is a valid palindrome,
+// considering only alphanumeric characters and ignoring cases.
+
