@@ -225,3 +225,4 @@
 //Q:51. Write a function to check if a string is a valid palindrome,
 // considering only alphanumeric characters and ignoring cases.
 
+//Q:52. Write a function to implement atoi (string to integer).
