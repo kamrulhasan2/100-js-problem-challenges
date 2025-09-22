@@ -119,6 +119,7 @@ Here are the first 16 challenges. More are on the way!
 | 50 | `lengthOfLongestSubstring(s)` | Finds the length of the longest substring without repeating characters. |
 | 51 | `isPalindrome(s)` | Checks if a string is a valid palindrome. |
 | 52 | `myAtoi(s)` | Implements atoi (string to integer). |
+| 53 | `longestPalindrome(s)` | Finds the longest palindromic substring in a string. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
