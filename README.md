@@ -120,6 +120,7 @@ Here are the first 16 challenges. More are on the way!
 | 51 | `isPalindrome(s)` | Checks if a string is a valid palindrome. |
 | 52 | `myAtoi(s)` | Implements atoi (string to integer). |
 | 53 | `longestPalindrome(s)` | Finds the longest palindromic substring in a string. |
+| 54 | `groupAnagrams(strs)` | Groups anagrams together from an array of strings. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
