@@ -230,3 +230,6 @@
 //Q:53. Write a function to find the longest palindromic substring in a string.
 
 //Q:54. Write a function to group anagrams together from an array of strings.
+
+//Q:55. Write a function to find the two numbers in an array that add up to a
+//  specific target.

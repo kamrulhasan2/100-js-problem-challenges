@@ -121,6 +121,7 @@ Here are the first 16 challenges. More are on the way!
 | 52 | `myAtoi(s)` | Implements atoi (string to integer). |
 | 53 | `longestPalindrome(s)` | Finds the longest palindromic substring in a string. |
 | 54 | `groupAnagrams(strs)` | Groups anagrams together from an array of strings. |
+| 55 | `twoSum(nums, target)` | Finds the two numbers in an array that add up to a specific target. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
