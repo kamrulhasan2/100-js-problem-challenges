@@ -123,6 +123,7 @@ Here are the first 16 challenges. More are on the way!
 | 54 | `groupAnagrams(strs)` | Groups anagrams together from an array of strings. |
 | 55 | `twoSum(nums, target)` | Finds the two numbers in an array that add up to a specific target. |
 | 56 | `maxSubArray(nums)` | Finds the maximum subarray sum. |
+| 57 | `mergeSortedArrays(arr1, arr2)` | Merges two sorted arrays. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
