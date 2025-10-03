@@ -124,6 +124,7 @@ Here are the first 16 challenges. More are on the way!
 | 55 | `twoSum(nums, target)` | Finds the two numbers in an array that add up to a specific target. |
 | 56 | `maxSubArray(nums)` | Finds the maximum subarray sum. |
 | 57 | `mergeSortedArrays(arr1, arr2)` | Merges two sorted arrays. |
+| 58 | `majorityElement(nums)` | Finds the majority element in an array. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
