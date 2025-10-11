@@ -125,6 +125,7 @@ Here are the first 16 challenges. More are on the way!
 | 56 | `maxSubArray(nums)` | Finds the maximum subarray sum. |
 | 57 | `mergeSortedArrays(arr1, arr2)` | Merges two sorted arrays. |
 | 58 | `majorityElement(nums)` | Finds the majority element in an array. |
+| 59 | `productExceptSelf(nums)` | Finds the product of all other elements in an array. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:

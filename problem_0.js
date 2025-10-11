@@ -239,3 +239,5 @@
 //Q:57. Write a function to merge two sorted arrays.
 
 //Q:58. Write a function to find the majority element in an array.
+
+//Q:59. Write a function to find the product of all other elements in an array.
