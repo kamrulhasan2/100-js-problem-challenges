@@ -128,6 +128,7 @@ Here are the first 16 challenges. More are on the way!
 | 59 | `productExceptSelf(nums)` | Finds the product of all other elements in an array. |
 | 60 | `searchRange(nums, target)` | Finds the first and last position of an element in a sorted array. |
 | 61 | `Deque` | Implements a Deque (double-ended queue). |
+| 62 | `PriorityQueue` | Implements a Priority Queue. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:

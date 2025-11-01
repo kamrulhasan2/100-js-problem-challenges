@@ -245,3 +245,5 @@
 //Q:60. Write a function to find the first and last position of an element in a sorted array.
 
 //Q:61. Implement a Deque (double-ended queue).
+
+//Q:62. Implement a Priority Queue.
