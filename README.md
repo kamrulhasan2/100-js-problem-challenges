@@ -129,6 +129,7 @@ Here are the first 16 challenges. More are on the way!
 | 60 | `searchRange(nums, target)` | Finds the first and last position of an element in a sorted array. |
 | 61 | `Deque` | Implements a Deque (double-ended queue). |
 | 62 | `PriorityQueue` | Implements a Priority Queue. |
+| 63 | `numIslands(grid)` | Finds the number of islands in a 2D grid. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
