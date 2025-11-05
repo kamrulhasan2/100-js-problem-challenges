@@ -130,6 +130,7 @@ Here are the first 16 challenges. More are on the way!
 | 61 | `Deque` | Implements a Deque (double-ended queue). |
 | 62 | `PriorityQueue` | Implements a Priority Queue. |
 | 63 | `numIslands(grid)` | Finds the number of islands in a 2D grid. |
+| 64 | `minDistance(word1, word2)` | Finds the edit distance between two strings. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
