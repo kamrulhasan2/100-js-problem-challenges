@@ -253,3 +253,5 @@
 //Q:64. Write a function to find the edit distance between two strings.
 
 //Q:65. Write a function to find the longest common subsequence of two strings.
+
+//Q:66. Write a function to validate a BST.
