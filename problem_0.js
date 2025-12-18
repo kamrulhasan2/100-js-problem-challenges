@@ -255,3 +255,5 @@
 //Q:65. Write a function to find the longest common subsequence of two strings.
 
 //Q:66. Write a function to validate a BST.
+
+//Q:67. Write a function to find the lowest common ancestor of two nodes in a BST.

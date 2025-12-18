@@ -133,6 +133,7 @@ Here are the first 16 challenges. More are on the way!
 | 64 | `minDistance(word1, word2)` | Finds the edit distance between two strings. |
 | 65 | `longestCommonSubsequence(text1, text2)` | Finds the longest common subsequence of two strings. |
 | 66 | `isValidBST(root)` | Validates a BST. |
+| 67 | `lowestCommonAncestor(root, p, q)` | Finds the lowest common ancestor of two nodes in a BST. |
 ## 🤝 Contributing
 
 Your contributions are welcome! You can help by:
